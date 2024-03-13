@@ -1,0 +1,43 @@
+
+Clean coding
+
+Design principles
+
+SOLID, KISS, YAGNI, DRY
+
+Single responsibility 
+Open (for "extension") closed (for modification)
+Liskov substitution
+Interface segregation
+Dependency inversion
+
+Design pattern 
+
+ - Builder (model classes - e.g. DTOs)
+ - Singleton
+ - Factory method
+ - Abstract factory
+ - Decorator
+ - Adapter
+ - Observer
+ - Iterator
+ - Chain of responsibility
+ 
+
+Code smells
+
+ - comentarii in cod 
+ - numar de parametri
+ - namings
+ - duplications
+ - lungime pe verticala & orizontala
+ 
+ - Mitigare: static code analysis, CR, boy scout rule
+
+Antipatterns
+
+ - Overengineering. 
+ - God Object
+ - Big ball of mud
+ 
+
