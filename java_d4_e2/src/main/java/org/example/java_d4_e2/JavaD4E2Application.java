@@ -1,14 +1,13 @@
-package org.example.java_d4_e1;
+package org.example.java_d4_e2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-public class JavaD4E1Application {
+public class JavaD4E2Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(JavaD4E1Application.class, args);
+        SpringApplication.run(JavaD4E2Application.class, args);
     }
 
 }
