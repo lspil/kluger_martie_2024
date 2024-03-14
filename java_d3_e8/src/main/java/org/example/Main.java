@@ -9,6 +9,6 @@ public class Main {
         User u = new User();
 
         UserDetails user = new UserAdapter(u);
-        
+
     }
 }
